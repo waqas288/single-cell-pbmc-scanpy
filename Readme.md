@@ -72,8 +72,8 @@ The notebook was written for Google Colab but runs anywhere with Python 3.10 or 
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/waqas288/Bioinformatics-Portfolio.git
-cd Bioinformatics-Portfolio/Python
+git clone https://github.com/waqas288/single-cell-pbmc-scanpy.git
+cd single-cell-pbmc-scanpy
 ```
 
 2. Install the packages:
